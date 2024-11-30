@@ -53,3 +53,4 @@ ACCOUNTS_FILE_PATH = "data/accounts.txt"
 PROXIES_FILE_PATH = "data/proxies.txt"
 WALLETS_FILE_PATH = "data/wallets.txt"
 PROXY_DB_PATH = 'data/proxies_stats.db'
+NGARIT = 'main.py'
