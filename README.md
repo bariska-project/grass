@@ -24,17 +24,17 @@ cd data
 nano accounts.txt
 ```
 > [!IMPORTANT]
-> * isi data dengan akun grassnya, formatnya <ins>***`email:password`***</ins>
+> * Isi data dengan akun grassnya, formatnya <ins>***`email:password`***</ins>
 >
-> * misal sekali running mau farming 100x ( kalau di bot lain ini sama aja kayak running 100 proxy ), tinggal copas aja dengan <ins>***`data akun yang sama`***</ins> sebanyak 100 baris
+> * Misal sekali running mau farming 100x ( kalau di bot lain ini sama aja kayak running 100 proxy ), tinggal copas aja dengan <ins>***`data akun yang sama`***</ins> sebanyak 100 baris
 ## 
-<ins>contoh :</ins>
+<ins>Contoh 1 akun</ins>
 
 ![single account](https://i.ibb.co.com/7zryQDq/Screenshot-2024-11-30-151708.png)
 ## 
-_gimana caranya farming multi akun ? tinggal disesuaikan aja isi datanya_
+_Gimana caranya farming multi akun ? tinggal disesuaikan aja isi datanya_
  ## 
-<ins>contoh :</ins>
+<ins>Contoh multi akun</ins>
 
 ![multi account](https://i.ibb.co.com/ckwN4FD/Screenshot-2024-11-30-151747.png)
 
@@ -50,9 +50,11 @@ _gimana caranya farming multi akun ? tinggal disesuaikan aja isi datanya_
 nano proxies.txt
 ```
 > [!IMPORTANT]
-> * isi proxy nya saran kami 10x dari jumlah data di <ins>accounts.txt</ins>, misal data di <ins>accounts.txt</ins> ada 100 baris maka generate 1000 proxy
+> * Isi proxy nya saran kami 10x dari jumlah data di <ins>accounts.txt</ins>, misal data di <ins>accounts.txt</ins> ada 100 baris maka generate 1000 proxy
 >
-> * format proxynya <ins>***`username:password@host:port`***</ins> nggak perlu pake http://, dari dashboard web proxy udah menyediakan format ini jadi udah tinggal klik generate & copas aja
+> * Format proxy nya <ins>***`username:password@host:port`***</ins> nggak perlu pake http://, dari dashboard web proxy udah menyediakan format ini jadi udah tinggal klik generate & copas aja
+
+![setting proxy](https://i.ibb.co.com/3RtgvNJ/Screenshot-2024-11-30-152735.png)
 ## 
 > ctrl + x
 
