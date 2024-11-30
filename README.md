@@ -30,33 +30,14 @@ nano accounts.txt
 ## 
 <ins>contoh :</ins>
 
-bariska@gmail.com:password
-
-bariska@gmail.com:password
-
-bariska@gmail.com:password
-
-.........100 baris
+![single account](https://i.ibb.co.com/7zryQDq/Screenshot-2024-11-30-151708.png)
 ## 
 _gimana caranya farming multi akun ? tinggal disesuaikan aja isi datanya_
  ## 
 <ins>contoh :</ins>
 
-bariska@gmail.com:password
+![multi account](https://i.ibb.co.com/ckwN4FD/Screenshot-2024-11-30-151747.png)
 
-bariska@gmail.com:password
-
-bariska@gmail.com:password
-
-.........100 baris
-
- bariska13@gmail.com:password
- 
-bariska13@gmail.com:password
-
-bariska13@gmail.com:password
-
- .........100 baris
 ## 
 
 > ctrl + x
